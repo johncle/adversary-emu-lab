@@ -6,13 +6,13 @@ Educational lab for emulating how adversaries go through the [cyber kill chain](
 
 Create VMs for:
 
-| Role                    | OS/Software                   | Purpose                                                  |
-| ----------------------- | ----------------------------- | -------------------------------------------------------- |
-| Attacker Machine        | Kali Linux                    | Conduct attacks (Metasploit, Cobalt Strike, BloodHound). |
-| Victim Workstation      | Windows 10                    | Target machine for phishing, malware testing.            |
-| Domain Controller (DC)  | Windows Server 2019           | Simulates Active Directory for enterprise attacks.       |
-| Linux Server            | Ubuntu                        | Target for Linux-based attacks.                          |
-| Log & Monitoring System | Security Onion / ELK / Splunk | SIEM for log analysis and detection.                     |
+| Role                                  | OS/Software                   | Purpose                                                  |
+| ------------------------------------- | ----------------------------- | -------------------------------------------------------- |
+| :heavy_check_mark: Attacker Machine   | Kali Linux                    | Conduct attacks (Metasploit, Cobalt Strike, BloodHound). |
+| :heavy_check_mark: Victim Workstation | Windows 10                    | Target machine for phishing, malware testing.            |
+| [] Domain Controller (DC)             | Windows Server 2019           | Simulates Active Directory for enterprise attacks.       |
+| [] Linux Server                       | Ubuntu                        | Target for Linux-based attacks.                          |
+| [] Log & Monitoring System            | Security Onion / ELK / Splunk | SIEM for log analysis and detection.                     |
 
 Implement each step of cyber kill chain plan:
 
