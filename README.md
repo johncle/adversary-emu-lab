@@ -89,3 +89,8 @@ With 'Hands on Keyboard' access, intruders accomplish their original goals
 
 -   Data Exfiltration: Simulate stealing sensitive data via DNS tunneling, PowerShell, or C2 frameworks
 -   Ransomware Simulation: Encrypt files in a sandbox to understand attack behaviors
+
+
+# Notes
+
+Will hold off on the log and monitoring system for now because Splunk and ELK stack are paid options (limited free trial) and Security Onion requires too many resources
